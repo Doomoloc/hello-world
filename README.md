@@ -1,2 +1,2 @@
 # hello-world
-To get started
+One program to rule them all
